@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "517023079738",
+    "firebase_url": "https://shopapp-ddedb.firebaseio.com",
+    "project_id": "shopapp-ddedb",
+    "storage_bucket": "shopapp-ddedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517023079738:android:7da23b049ed1ca4f6d4403",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517023079738-ud0rrcnneolvmno8ucusp5p4693p93qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9xyko85YhrB-pIK68DghC_DvoJgAt5cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517023079738-ud0rrcnneolvmno8ucusp5p4693p93qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
